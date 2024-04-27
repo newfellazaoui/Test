@@ -106,7 +106,9 @@
       echo '</div>'; 
       print_r($_GET);
     ?>
-
+<footer>
+    copyright &copy; all right reserved
+</footer>
    <script src="js/script.js"></script>
    <script>
     var x=8;
