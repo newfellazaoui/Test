@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,3 +10,11 @@
     alksjdfkljaskdf
 </body>
 </html>
+=======
+<html>
+
+  <body>
+    <div class="text-center">bla bla </div>
+  </body>
+</html>
+>>>>>>> d842c910ba0fdddbc115ef67773f9a905997751c
